@@ -1,7 +1,7 @@
 # TestNetwork
 Virtual Networks for Test 
-Install virtualbox (https://www.virtualbox.org/)
-install vagrant  https://www.vagrantup.com/docs/installation
+Install virtualbox [https://www.virtualbox.org/]
+install vagrant  [https://www.vagrantup.com/docs/installation]
 mkdir C:\<my folder name>
 cd <myfolder name>
   copy vagrantfile
