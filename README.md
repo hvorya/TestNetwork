@@ -16,3 +16,4 @@
 11. aYou can check the upper by sudo sysctl -p
 12. If you still can not ping then in lab2 and lab3: route del default and route add default gw \<Lab1 IP\>  \<name of nic\>              
                
+![virtualbox-topology-csr-2](https://user-images.githubusercontent.com/23523960/150632095-2a178597-94da-4d60-aef4-682d6c5723ae.png)
